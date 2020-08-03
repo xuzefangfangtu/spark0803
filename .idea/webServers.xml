@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1f1d3b0e-fb9a-41e2-aa94-cbd68b8fe9fa" name="PhD101" url="http://PhD101">
+        <fileTransfer accessType="SFTP" host="192.168.1.131" port="22" sshConfigId="88108446-5dd8-4ed6-ab26-136d1ff41e23" sshConfig="PhD101">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
